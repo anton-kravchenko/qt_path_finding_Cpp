@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/">
+        <file>brick.png</file>
+        <file>wall.png</file>
+        <file>gras.png</file>
+        <file>start.png</file>
+        <file>finish.png</file>
+        <file>waypoint.png</file>
+        <file>gras_openlist.png</file>
+        <file>gras_LEE_parentlist.png</file>
+        <file>waypointLEE.png</file>
+    </qresource>
+</RCC>
